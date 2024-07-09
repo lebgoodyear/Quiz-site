@@ -1,0 +1,31 @@
+html {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+* {
+    background-color: #024950;
+}
+
+h1,
+h2,
+p,
+a {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+h1 {
+    padding: 0px;
+    margin: 0px;
+    border: none;
+    text-align: center;
+    vertical-align: top;
+}
+
+.oval {
+    color: #964734;
+    border-radius: 50%;
+}
